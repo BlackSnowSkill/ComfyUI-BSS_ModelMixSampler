@@ -1,8 +1,19 @@
 # ModelMixSampler (BSS) for ComfyUI
 
+🇷🇺 [Читать на русском языке](README_RU.md)
+
 **ModelMixSampler (BSS)** is an advanced, highly optimized custom node for ComfyUI that allows you to chain and alternate denoising steps dynamically between two models of **identical latent architecture** (e.g., SDXL with SDXL, or DiT with DiT, such as HunyuanVideo and Wan2.1) within a single generation process.
 
 By performing direct latent structure and noise phase transitions without slow VAE decoding/encoding cycles, this node delivers maximum sampling speeds, 100% vibrant colors, ultra-crisp details, and completely eliminates any alien color shifts or artifacts.
+
+> [!IMPORTANT]
+> **Author and Developer:** **blacksnowskill (BSS)**  
+> **© 2026 blacksnowskill (BSS). All rights reserved.**  
+> This project is protected by copyright. Any unauthorized copying, modification without attribution, or representing this code as your own product is strictly prohibited.
+
+> [!TIP]
+> **Ultimate Speed & Performance Booster:**  
+> To achieve the ultimate balance of breathtaking visual clarity and lightning-fast generations, we highly recommend pairing **ModelMixSampler (BSS)** with our core optimization suite **[ANIMA_BOOSTER](https://github.com/BlackSnowSkill/ANIMA_BOOSTER)**.
 
 ---
 
@@ -113,5 +124,17 @@ You can compare the outputs of the individual models against various step schedu
 
 ---
 
-## License
-© 2026 blacksnowskill (BSS). All rights reserved. Developed by blacksnowskill (BSS).
+## ☕ Support & Development
+
+If you love my work and want to support the development of future optimizations, nodes, and custom models, please consider supporting me:
+
+- **Boosty**: [Support & Exclusive Models](https://boosty.to/blacksnowskill)
+
+---
+
+## 📄 License & Usage
+
+© 2026 blacksnowskill (BSS). All rights reserved.
+
+This software is an experimental release. Feedback is highly welcome.
+**Notice:** This project is protected by copyright. Any unauthorized copying, distribution, merging with other projects, or hosting on other repositories/websites without the explicit written permission of the author is strictly prohibited.
