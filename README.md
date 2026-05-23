@@ -12,8 +12,9 @@ By performing direct latent structure and noise phase transitions without slow V
 > This project is protected by copyright. Any unauthorized copying, modification without attribution, or representing this code as your own product is strictly prohibited.
 
 > [!TIP]
-> **Ultimate Speed & Performance Booster:**  
-> To achieve the ultimate balance of breathtaking visual clarity and lightning-fast generations, we highly recommend pairing **ModelMixSampler (BSS)** with our core optimization suite **[ANIMA_BOOSTER](https://github.com/BlackSnowSkill/ANIMA_BOOSTER)**.
+> **Other Useful Custom Nodes from BSS:**  
+> - **[ANIMA_BOOSTER](https://github.com/BlackSnowSkill/ANIMA_BOOSTER)** — Extreme speedup and optimizations for Anima DiT models.  
+> - **[FLSampler (BSS)](https://github.com/BlackSnowSkill/ComfyUI-BSS_FLSampler)** — Foveated Latent Sampler for cinematic details, rich micro-textures, and sharp boundaries.
 
 ---
 
